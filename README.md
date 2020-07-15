@@ -1,4 +1,7 @@
-### Olá! Meu nome é Jeferson e sou desenvolvedor Front-End. 👋
+### Hello!👋 My name is Jeferson (call me Jef 😄) and I'm a Front-End Developer. 
+[![Linkedin Badge](https://img.shields.io/badge/-jefersonoliveiralopes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jefersonoliveiralopes/)](https://www.linkedin.com/in/jefersonoliveiralopes/)
+[![Gmail Badge](https://img.shields.io/badge/-jeferson.ol.lopes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeferson.ol.lopes@gmail.com)](mailto:jeferson.ol.lopes@gmail.com)
+[![Itch Badge](https://img.shields.io/badge/myGames-itch.io-ff69b4)](https://devjef.itch.io/)
 
 <!--
 **devjef/devjef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,12 +18,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 Estou trabalhando em alguns projetos de Front-end (que você irá encontrar aqui).
+- 🔭 I'm working on some Front-end projects (which you'll find here).
 
-- 🎮 Também faço alguns jogos nas horas vagas com Unity usando C#! Você pode conferir aqui: https://devjef.itch.io/
+- 🎮 I also develop some games in my spare time with Unity using C #!
 
-- 🌱 Estou estudando MUITO Vanilla Javascript e em breve vou avançar no React + NodeJS!
+- 🌱 I am studying Vanilla Javascript a lot and soon I will study React + NodeJS!
 
-- 💬 Linkedin: https://www.linkedin.com/in/jefersonoliveiralopes/
+- 💬 Ask me about: Games, tech, cycling, comics and TV Series.
 
-- 📫 Email: jeferson.ol.lopes@gmail.com
+"Well begun is half done." 
