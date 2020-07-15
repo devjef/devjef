@@ -1,8 +1,8 @@
 ### Hello!👋 My name is Jeferson (call me Jef 😄) and I'm a Front-End Developer. 
 [![Linkedin Badge](https://img.shields.io/badge/-jefersonoliveiralopes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jefersonoliveiralopes/)](https://www.linkedin.com/in/jefersonoliveiralopes/)
 [![Gmail Badge](https://img.shields.io/badge/-jeferson.ol.lopes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeferson.ol.lopes@gmail.com)](mailto:jeferson.ol.lopes@gmail.com)
-[![Itch Badge](https://img.shields.io/badge/myGames-itch.io-ff69b4)](https://devjef.itch.io/)
-
+[![Discord Badge](https://img.shields.io/badge/devjef-3981-blue?style=flat-square&logo=Discord&logoColor=white)](https://discord.com/)
+[![Itch Badge](https://img.shields.io/badge/itch.io-devjef-ff69b4?style=flat-square)](https://devjef.itch.io/)
 <!--
 **devjef/devjef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
