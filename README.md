@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá! Meu nome é Jeferson e sou desenvolvedor Front-End. 👋
 
 <!--
 **devjef/devjef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 Estou trabalhando em alguns projetos de Front-end (que você irá encontrar aqui).
+
+- 🎮 Também faço alguns jogos nas horas vagas com Unity usando C#! Você pode conferir aqui: https://devjef.itch.io/
+
+- 🌱 Estou estudando MUITO Vanilla Javascript e em breve vou avançar no React + NodeJS!
+
+- 💬 Linkedin: https://www.linkedin.com/in/jefersonoliveiralopes/
+
+- 📫 Email: jeferson.ol.lopes@gmail.com
